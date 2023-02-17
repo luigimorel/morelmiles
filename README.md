@@ -1,5 +1,5 @@
 ## About me
-- Product focused software engineer
+- A product minded software engineer
 
 ## Tools 
 - React.js, Javascript/Typescript, Go, Node.js (Express, Next), Dart, Tailwindcss, so many more libraries  
